@@ -4,6 +4,8 @@
 DOC to TXT is a simple Applescript application for Mac OS X that converts Microsoft Word files (.doc, .docx) and converts them to a .txt file. For reference or issues, go to [the project page](http://mikefrizzell.com/projects/doc-to-txt.html).
 
 ###How to run###
+First, either [download the entire project here](https://github.com/mikefrizzell/DOC-to-TXT/archive/master.zip) and unzip it. Or, fork the project through Github.
+
 To run the app, just doubleclick DOC-to-TXT.app, choose the files you want to convert and select where you would like to save them. Using OS X's built-in textutil script, the .doc or .docx file will be converted to plaintext.
 
 ###Limitations###
